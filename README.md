@@ -2,8 +2,6 @@
 
 This a version of libcamera-apps that are compiled for Alpine Linux, for the original version go to: [raspberrypi/libcamera-apps](https://github.com/raspberrypi/libcamera-apps).
 
-> Version 1.1.1 has an issue with building on aarch64
-
 ## Getting the camera to work
 
 Getting the camera to work under alpine linux requires some work. (I assume that you have a working installation)

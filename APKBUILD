@@ -1,11 +1,11 @@
 # Contributor: Wouter van der Wal <me@wjtje.dev>
 # Maintainer: Wouter van der Wal <me@wjtje.dev>
 pkgname=libcamera-apps
-pkgver=1.1.1
+pkgver=1.1.2
 pkgrel=0
 pkgdesc="This is a small suite of libcamera-based apps that aim to copy the functionality of the existing \"raspicam\" apps."
 url="https://www.raspberrypi.com/documentation/computers/camera_software.html"
-arch="armv7 armhf aarch64"
+arch="armv7 armhf aarch64 x86_64"
 license="BSD-2-Clause"
 depends="libcamera libjpeg-turbo libexif libpng tiff boost"
 makedepends="cmake libcamera-dev libjpeg-turbo-dev libexif-dev libpng-dev tiff-dev boost-dev"
